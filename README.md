@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [math](#math) (2)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (2)
+- [math](#math) (3)
+- [number theory](#number-theory) (1)
 
 ---
 
@@ -30,12 +31,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4B | [Before an Exam](https://codeforces.com/contest/4/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/4/B%20-%20Before%20an%20Exam/solution.cpp) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 
 ### math
 
@@ -43,6 +46,13 @@
 |---|---------|------------|----------|
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 
 ---
 
