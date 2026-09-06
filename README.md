@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 5 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
 
@@ -39,6 +39,7 @@
 |---|---------|------------|----------|
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1512B | [Almost Rectangle](https://codeforces.com/contest/1512/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/nirmalyogi/Codeforces-subs/blob/HEAD/1512/B%20-%20Almost%20Rectangle/solution.cpp) |
 
 ### math
 
